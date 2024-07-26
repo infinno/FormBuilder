@@ -1,0 +1,11 @@
+framework module FormBuilderSDK {
+  umbrella header "FormBuilderSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module FormBuilderSDK.Swift {
+  header "FormBuilderSDK-Swift.h"
+  requires objc
+}
