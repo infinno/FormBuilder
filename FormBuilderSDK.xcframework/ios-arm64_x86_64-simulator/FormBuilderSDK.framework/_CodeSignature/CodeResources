@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		067UfI4EzPBtCZwgwONo/SJu9tI=
+		PrensN8DajHT7ZE7beWddFycvZc=
 		</data>
 		<key>Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		LDhx8cpKoIK0EyVsDay27rU5mRM=
+		EPY5fwgXtk1hQR/lQiSbkEg/dsU=
 		</data>
 		<key>Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		LDhx8cpKoIK0EyVsDay27rU5mRM=
+		EPY5fwgXtk1hQR/lQiSbkEg/dsU=
 		</data>
 		<key>Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -104,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A3hhzsZXfXuBerai/SSsLdjMll6pR//9wDZxFOEz8gU=
+			Xv6pSctTz7BdmYT5zkqP8fYxxSEL1WydfiEKG4TYdu4=
 			</data>
 		</dict>
 		<key>Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -139,7 +139,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A3hhzsZXfXuBerai/SSsLdjMll6pR//9wDZxFOEz8gU=
+			Xv6pSctTz7BdmYT5zkqP8fYxxSEL1WydfiEKG4TYdu4=
 			</data>
 		</dict>
 		<key>Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
