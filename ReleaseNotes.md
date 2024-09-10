@@ -1,5 +1,8 @@
 # Release notes
 
+## v1.1.1 (4)
+- Set an initial instructional text.
+
 ## v1.1.0 (3)
 - KYC fixes.
 - Added ability to hide the close button.

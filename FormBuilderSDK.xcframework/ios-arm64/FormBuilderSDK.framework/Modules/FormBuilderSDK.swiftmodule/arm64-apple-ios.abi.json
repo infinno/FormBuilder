@@ -5004,35 +5004,35 @@
     {
       "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "FloatLiteral",
-      "offset": 10215,
+      "offset": 10262,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13998,
+      "offset": 14045,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "Dictionary",
-      "offset": 14132,
+      "offset": 14179,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22575,
+      "offset": 22622,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22615,
+      "offset": 22662,
       "length": 1,
       "value": "0"
     },
@@ -5046,7 +5046,7 @@
     {
       "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 27798,
+      "offset": 27845,
       "length": 4,
       "value": "true"
     },
