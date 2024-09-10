@@ -33,6 +33,7 @@ extension CoreMedia.CMVideoDimensions : Swift.Equatable {
   @objc final public var backgroundColor: UIKit.UIColor
   @objc final public var textColor: UIKit.UIColor
   @objc final public var font: UIKit.UIFont
+  @objc final public var showCloseButton: Swift.Bool
   @objc final public var inputBorderStyle: UIKit.UITextField.BorderStyle
   @objc final public var inputCornerRadius: CoreFoundation.CGFloat {
     @objc get
@@ -61,7 +62,7 @@ extension CoreMedia.CMVideoDimensions : Swift.Equatable {
     @objc get
     @objc set
   }
-  @objc final public var buttonLeadingSpace: CoreFoundation.CGFloat {
+  @objc final public var leadingSpace: CoreFoundation.CGFloat {
     @objc get
     @objc set
   }
@@ -73,7 +74,16 @@ extension CoreMedia.CMVideoDimensions : Swift.Equatable {
     get
     set
   }
+  @objc final public var buttonCornerRadius: CoreFoundation.CGFloat {
+    @objc get
+    @objc set
+  }
   @objc final public var consentLinkButtonFont: UIKit.UIFont
+  @available(*, deprecated, renamed: "leadingSpace")
+  @objc final public var buttonLeadingSpace: CoreFoundation.CGFloat {
+    @objc get
+    @objc set
+  }
   @objc deinit
 }
 @objc(FBSDelegate) public protocol FBSDelegate {
