@@ -314,6 +314,9 @@ SWIFT_CLASS_NAMED("FBSAppearance")
 @property (nonatomic, strong) UIColor * _Nonnull textColor;
 /// The font for the text in the forms (labels, inputs, buttons, etc). The default is the system <a href="https://developer.apple.com/documentation/uikit/uifont/textstyle/1616682-body">Body</a> font.
 @property (nonatomic, strong) UIFont * _Nonnull font;
+/// Controls whether the close button is shown.
+/// If you set it to <code>false</code> then the process will not be able to be interrupted by the user.
+@property (nonatomic) BOOL showCloseButton;
 /// The border style of the input fields. Default is <a href="https://developer.apple.com/documentation/uikit/uitextfield/borderstyle/roundedrect">.roundedRect</a>. Set to <a href="https://developer.apple.com/documentation/uikit/uitextfield/borderstyle/none">.none</a> for full customization.
 @property (nonatomic) enum UITextBorderStyle inputBorderStyle;
 /// The corner radius of the input fields. Default is 8 points. Applies only when <code>fieldBorderStyle</code> is <code>.none</code>.
@@ -335,10 +338,16 @@ SWIFT_CLASS_NAMED("FBSAppearance")
 /// The minimum height of the buttons in points. If you do not set it the buttons will self-size.
 /// May not apply to all buttons 😬
 @property (nonatomic) CGFloat buttonMinimumHeight;
+/// The distance from a control’s (text field, label, button) leading edge to the screen’s leading edge.
+/// May not apply to all controls 😬
+@property (nonatomic) CGFloat leadingSpace;
+/// The corner radius of the buttons in points.
+/// If this is set to anything other than <code>.nan</code>, the <code>buttonCornerStyle</code> is ignored. Default is <code>.nan</code>.
+@property (nonatomic) CGFloat buttonCornerRadius;
+@property (nonatomic, strong) UIFont * _Nonnull consentLinkButtonFont;
 /// The distance from a button’s leading edge to the screen’s leading edge.
 /// May not apply to all buttons 😬
-@property (nonatomic) CGFloat buttonLeadingSpace;
-@property (nonatomic, strong) UIFont * _Nonnull consentLinkButtonFont;
+@property (nonatomic) CGFloat buttonLeadingSpace SWIFT_DEPRECATED_MSG("", "leadingSpace");
 @end
 
 
@@ -734,6 +743,9 @@ SWIFT_CLASS_NAMED("FBSAppearance")
 @property (nonatomic, strong) UIColor * _Nonnull textColor;
 /// The font for the text in the forms (labels, inputs, buttons, etc). The default is the system <a href="https://developer.apple.com/documentation/uikit/uifont/textstyle/1616682-body">Body</a> font.
 @property (nonatomic, strong) UIFont * _Nonnull font;
+/// Controls whether the close button is shown.
+/// If you set it to <code>false</code> then the process will not be able to be interrupted by the user.
+@property (nonatomic) BOOL showCloseButton;
 /// The border style of the input fields. Default is <a href="https://developer.apple.com/documentation/uikit/uitextfield/borderstyle/roundedrect">.roundedRect</a>. Set to <a href="https://developer.apple.com/documentation/uikit/uitextfield/borderstyle/none">.none</a> for full customization.
 @property (nonatomic) enum UITextBorderStyle inputBorderStyle;
 /// The corner radius of the input fields. Default is 8 points. Applies only when <code>fieldBorderStyle</code> is <code>.none</code>.
@@ -755,10 +767,16 @@ SWIFT_CLASS_NAMED("FBSAppearance")
 /// The minimum height of the buttons in points. If you do not set it the buttons will self-size.
 /// May not apply to all buttons 😬
 @property (nonatomic) CGFloat buttonMinimumHeight;
+/// The distance from a control’s (text field, label, button) leading edge to the screen’s leading edge.
+/// May not apply to all controls 😬
+@property (nonatomic) CGFloat leadingSpace;
+/// The corner radius of the buttons in points.
+/// If this is set to anything other than <code>.nan</code>, the <code>buttonCornerStyle</code> is ignored. Default is <code>.nan</code>.
+@property (nonatomic) CGFloat buttonCornerRadius;
+@property (nonatomic, strong) UIFont * _Nonnull consentLinkButtonFont;
 /// The distance from a button’s leading edge to the screen’s leading edge.
 /// May not apply to all buttons 😬
-@property (nonatomic) CGFloat buttonLeadingSpace;
-@property (nonatomic, strong) UIFont * _Nonnull consentLinkButtonFont;
+@property (nonatomic) CGFloat buttonLeadingSpace SWIFT_DEPRECATED_MSG("", "leadingSpace");
 @end
 
 
