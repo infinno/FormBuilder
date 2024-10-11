@@ -79,6 +79,14 @@ The `didOpenStep` closure tells you whether opening the process was successful o
 
 ---
 
+You can provide an (optional) `URL` in the `FormBuilder` initialiser which points to your own FormBuilder/KYC instance. If you don’t the default instance will be used.
+
+```swift
+let myKYCBackendURL = URL(string: "https://kyc.example.com/ss")!
+
+let formBuilder = FormBuilder(formBuilderInstanceURL: myKYCBackendURL) 
+``` 
+
 Optionally you can pass an `FBSAppearance` object to the `FormBuilder` initialiser with which you can configure some of the appearance of the labels, fields, buttons:
 
 ```swift

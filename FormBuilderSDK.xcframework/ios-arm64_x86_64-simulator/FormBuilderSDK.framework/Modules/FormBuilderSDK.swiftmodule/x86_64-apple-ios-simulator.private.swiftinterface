@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
 // swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name FormBuilderSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
 import CoreImage
 import DeveloperToolsSupport
@@ -19,9 +20,15 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+#if compiler(>=5.3) && $RetroactiveAttribute
+extension CoreMedia.CMVideoDimensions : @retroactive Swift.Equatable {
+  public static func == (lhs: CoreMedia.CMVideoDimensions, rhs: CoreMedia.CMVideoDimensions) -> Swift.Bool
+}
+#else
 extension CoreMedia.CMVideoDimensions : Swift.Equatable {
   public static func == (lhs: CoreMedia.CMVideoDimensions, rhs: CoreMedia.CMVideoDimensions) -> Swift.Bool
 }
+#endif
 @objc(FBSBackendError) final public class FBSBackendError : ObjectiveC.NSObject, Swift.Decodable, Swift.Error {
   final public let localizedDescription: Swift.String
   @objc deinit
@@ -33,6 +40,7 @@ extension CoreMedia.CMVideoDimensions : Swift.Equatable {
   @objc final public var backgroundColor: UIKit.UIColor
   @objc final public var textColor: UIKit.UIColor
   @objc final public var font: UIKit.UIFont
+  @objc final public var navigationTitleFont: UIKit.UIFont
   @objc final public var showCloseButton: Swift.Bool
   @objc final public var inputBorderStyle: UIKit.UITextField.BorderStyle
   @objc final public var inputCornerRadius: CoreFoundation.CGFloat {
@@ -79,6 +87,18 @@ extension CoreMedia.CMVideoDimensions : Swift.Equatable {
     @objc set
   }
   @objc final public var consentLinkButtonFont: UIKit.UIFont
+  @objc final public var embedInstructionsLabelInBubble: Swift.Bool {
+    @objc get
+    @objc set
+  }
+  @objc final public var bubbleBackgroundColor: UIKit.UIColor {
+    @objc get
+    @objc set
+  }
+  @objc final public var bubbleCornerRadius: CoreFoundation.CGFloat {
+    @objc get
+    @objc set
+  }
   @available(*, deprecated, renamed: "leadingSpace")
   @objc final public var buttonLeadingSpace: CoreFoundation.CGFloat {
     @objc get
@@ -128,7 +148,7 @@ extension Swift.AdditiveArithmetic {
 }
 @objc(FormBuilder) final public class FormBuilder : ObjectiveC.NSObject {
   @objc public static var appearance: FormBuilderSDK.FBSAppearance
-  @objc public init(appearance: FormBuilderSDK.FBSAppearance = FBSAppearance())
+  @objc public init(formBuilderInstanceURL: Foundation.URL? = nil, appearance: FormBuilderSDK.FBSAppearance = FBSAppearance())
   final public func startProcess(withId id: Swift.String, callingServiceToken: Swift.String?, delegate: any FormBuilderSDK.FBSDelegate, didStartProcess: @escaping (Swift.Result<Swift.Bool, any Swift.Error>) -> Swift.Void)
   @objc final public func objc_startProcess(withId id: Swift.String, callingServiceToken: Swift.String?, delegate: any FormBuilderSDK.FBSDelegate, didStartProcess: @escaping (Swift.Bool, (any Swift.Error)?) -> Swift.Void)
   final public func openStep(withId id: Swift.String, delegate: any FormBuilderSDK.FBSDelegate, didOpenStep: @escaping (Swift.Result<Swift.Bool, any Swift.Error>) -> Swift.Void)
