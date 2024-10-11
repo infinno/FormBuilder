@@ -1,5 +1,9 @@
 # Release notes
 
+## v1.2.0 (5)
+- Added ability to use your own FormBuilder/KYC instance.
+- Bugfixes.
+
 ## v1.1.1 (4)
 - Set an initial instructional text.
 
