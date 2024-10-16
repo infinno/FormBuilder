@@ -87,18 +87,6 @@ extension CoreMedia.CMVideoDimensions : Swift.Equatable {
     @objc set
   }
   @objc final public var consentLinkButtonFont: UIKit.UIFont
-  @objc final public var embedInstructionsLabelInBubble: Swift.Bool {
-    @objc get
-    @objc set
-  }
-  @objc final public var bubbleBackgroundColor: UIKit.UIColor {
-    @objc get
-    @objc set
-  }
-  @objc final public var bubbleCornerRadius: CoreFoundation.CGFloat {
-    @objc get
-    @objc set
-  }
   @available(*, deprecated, renamed: "leadingSpace")
   @objc final public var buttonLeadingSpace: CoreFoundation.CGFloat {
     @objc get
@@ -148,6 +136,8 @@ extension Swift.AdditiveArithmetic {
 }
 @objc(FormBuilder) final public class FormBuilder : ObjectiveC.NSObject {
   @objc public static var appearance: FormBuilderSDK.FBSAppearance
+  @objc public init(instanceURL: Foundation.URL, appearance: FormBuilderSDK.FBSAppearance = FBSAppearance())
+  @available(*, unavailable, renamed: "init(instanceURL:appearance:)", message: "The instance’s URL is mandatory.")
   @objc public init(formBuilderInstanceURL: Foundation.URL? = nil, appearance: FormBuilderSDK.FBSAppearance = FBSAppearance())
   final public func startProcess(withId id: Swift.String, callingServiceToken: Swift.String?, delegate: any FormBuilderSDK.FBSDelegate, didStartProcess: @escaping (Swift.Result<Swift.Bool, any Swift.Error>) -> Swift.Void)
   @objc final public func objc_startProcess(withId id: Swift.String, callingServiceToken: Swift.String?, delegate: any FormBuilderSDK.FBSDelegate, didStartProcess: @escaping (Swift.Bool, (any Swift.Error)?) -> Swift.Void)

@@ -1,5 +1,8 @@
 # Release notes
 
+## v1.3.0 (6)
+- The backend instance URL is now mandatory when initialising the SDK.  
+
 ## v1.2.0 (5)
 - Added ability to use your own FormBuilder/KYC instance.
 - Bugfixes.

@@ -244,16 +244,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FormBuilderSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -2588,298 +2578,6 @@
           },
           {
             "kind": "Var",
-            "name": "embedInstructionsLabelInBubble",
-            "printedName": "embedInstructionsLabelInBubble",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@FormBuilderSDK@objc(cs)FBSAppearance(py)embedInstructionsLabelInBubble",
-            "mangledName": "$s14FormBuilderSDK13FBSAppearanceC30embedInstructionsLabelInBubbleSbvp",
-            "moduleName": "FormBuilderSDK",
-            "declAttributes": [
-              "Final",
-              "Lazy",
-              "AccessControl",
-              "ObjC",
-              "RawDocComment"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@FormBuilderSDK@objc(cs)FBSAppearance(im)embedInstructionsLabelInBubble",
-                "mangledName": "$s14FormBuilderSDK13FBSAppearanceC30embedInstructionsLabelInBubbleSbvg",
-                "moduleName": "FormBuilderSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "Final",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@FormBuilderSDK@objc(cs)FBSAppearance(im)setEmbedInstructionsLabelInBubble:",
-                "mangledName": "$s14FormBuilderSDK13FBSAppearanceC30embedInstructionsLabelInBubbleSbvs",
-                "moduleName": "FormBuilderSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "Final",
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FormBuilderSDK13FBSAppearanceC30embedInstructionsLabelInBubbleSbvM",
-                "mangledName": "$s14FormBuilderSDK13FBSAppearanceC30embedInstructionsLabelInBubbleSbvM",
-                "moduleName": "FormBuilderSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "bubbleBackgroundColor",
-            "printedName": "bubbleBackgroundColor",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIColor",
-                "printedName": "UIKit.UIColor",
-                "usr": "c:objc(cs)UIColor"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@FormBuilderSDK@objc(cs)FBSAppearance(py)bubbleBackgroundColor",
-            "mangledName": "$s14FormBuilderSDK13FBSAppearanceC21bubbleBackgroundColorSo7UIColorCvp",
-            "moduleName": "FormBuilderSDK",
-            "declAttributes": [
-              "Final",
-              "Lazy",
-              "AccessControl",
-              "ObjC"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@FormBuilderSDK@objc(cs)FBSAppearance(im)bubbleBackgroundColor",
-                "mangledName": "$s14FormBuilderSDK13FBSAppearanceC21bubbleBackgroundColorSo7UIColorCvg",
-                "moduleName": "FormBuilderSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "Final",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@FormBuilderSDK@objc(cs)FBSAppearance(im)setBubbleBackgroundColor:",
-                "mangledName": "$s14FormBuilderSDK13FBSAppearanceC21bubbleBackgroundColorSo7UIColorCvs",
-                "moduleName": "FormBuilderSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "Final",
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FormBuilderSDK13FBSAppearanceC21bubbleBackgroundColorSo7UIColorCvM",
-                "mangledName": "$s14FormBuilderSDK13FBSAppearanceC21bubbleBackgroundColorSo7UIColorCvM",
-                "moduleName": "FormBuilderSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "bubbleCornerRadius",
-            "printedName": "bubbleCornerRadius",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@FormBuilderSDK@objc(cs)FBSAppearance(py)bubbleCornerRadius",
-            "mangledName": "$s14FormBuilderSDK13FBSAppearanceC18bubbleCornerRadius12CoreGraphics7CGFloatVvp",
-            "moduleName": "FormBuilderSDK",
-            "declAttributes": [
-              "Final",
-              "Lazy",
-              "AccessControl",
-              "ObjC"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGFloat",
-                    "printedName": "CoreGraphics.CGFloat",
-                    "usr": "s:14CoreFoundation7CGFloatV"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@FormBuilderSDK@objc(cs)FBSAppearance(im)bubbleCornerRadius",
-                "mangledName": "$s14FormBuilderSDK13FBSAppearanceC18bubbleCornerRadius12CoreGraphics7CGFloatVvg",
-                "moduleName": "FormBuilderSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "Final",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGFloat",
-                    "printedName": "CoreGraphics.CGFloat",
-                    "usr": "s:14CoreFoundation7CGFloatV"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@FormBuilderSDK@objc(cs)FBSAppearance(im)setBubbleCornerRadius:",
-                "mangledName": "$s14FormBuilderSDK13FBSAppearanceC18bubbleCornerRadius12CoreGraphics7CGFloatVvs",
-                "moduleName": "FormBuilderSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "Final",
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FormBuilderSDK13FBSAppearanceC18bubbleCornerRadius14CoreFoundation7CGFloatVvM",
-                "mangledName": "$s14FormBuilderSDK13FBSAppearanceC18bubbleCornerRadius12CoreGraphics7CGFloatVvM",
-                "moduleName": "FormBuilderSDK",
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
             "name": "buttonLeadingSpace",
             "printedName": "buttonLeadingSpace",
             "children": [
@@ -3779,7 +3477,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(formBuilderInstanceURL:appearance:)",
+            "printedName": "init(instanceURL:appearance:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3789,18 +3487,9 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Foundation.URL?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "URL",
-                    "printedName": "Foundation.URL",
-                    "usr": "s:10Foundation3URLV"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
               },
               {
                 "kind": "TypeNominal",
@@ -3811,10 +3500,10 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@FormBuilderSDK@objc(cs)FormBuilder(im)initWithFormBuilderInstanceURL:appearance:",
-            "mangledName": "$s14FormBuilderSDK0aB0C04formB11InstanceURL10appearanceAC10Foundation0F0VSg_AA13FBSAppearanceCtcfc",
+            "usr": "c:@M@FormBuilderSDK@objc(cs)FormBuilder(im)initWithInstanceURL:appearance:",
+            "mangledName": "$s14FormBuilderSDK0aB0C11instanceURL10appearanceAC10Foundation0E0V_AA13FBSAppearanceCtcfc",
             "moduleName": "FormBuilderSDK",
-            "objc_name": "initWithFormBuilderInstanceURL:appearance:",
+            "objc_name": "initWithInstanceURL:appearance:",
             "declAttributes": [
               "AccessControl",
               "ObjC",
@@ -4322,16 +4011,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FormBuilderSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -4753,50 +4432,43 @@
   "ConstValues": [
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 350,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "Array",
-      "offset": 509,
+      "offset": 476,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "StringLiteral",
-      "offset": 613,
+      "offset": 580,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "StringLiteral",
-      "offset": 754,
+      "offset": 721,
       "length": 12,
       "value": "\"Other File\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "StringLiteral",
-      "offset": 793,
+      "offset": 760,
       "length": 8,
       "value": "\"folder\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "StringLiteral",
-      "offset": 1066,
+      "offset": 1033,
       "length": 15,
       "value": "\"Photo Library\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "StringLiteral",
-      "offset": 1108,
+      "offset": 1075,
       "length": 20,
       "value": "\"photo.on.rectangle\""
     },
@@ -5067,13 +4739,6 @@
       "value": "\"VIDEO_URL\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSA1Button.swift",
-      "kind": "BooleanLiteral",
-      "offset": 293,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 221,
@@ -5137,135 +4802,121 @@
       "value": "[]"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSSectionView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 376,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
-      "kind": "BooleanLiteral",
-      "offset": 297,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
       "kind": "StringLiteral",
-      "offset": 603,
+      "offset": 570,
       "length": 7,
       "value": "\"https\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
       "kind": "StringLiteral",
-      "offset": 669,
+      "offset": 636,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "StringLiteral",
-      "offset": 867,
+      "offset": 817,
       "length": 16,
       "value": "\"id-card-cutout\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "StringLiteral",
-      "offset": 983,
+      "offset": 933,
       "length": 22,
       "value": "\"id-card-error-cutout\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "StringLiteral",
-      "offset": 1098,
+      "offset": 1048,
       "length": 13,
       "value": "\"face-cutout\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "StringLiteral",
-      "offset": 1209,
+      "offset": 1159,
       "length": 19,
       "value": "\"face-error-cutout\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1556,
+      "offset": 1506,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1594,
+      "offset": 1544,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1638,
+      "offset": 1588,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1678,
+      "offset": 1628,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "FloatLiteral",
-      "offset": 12069,
+      "offset": 10262,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15852,
+      "offset": 14045,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "Dictionary",
-      "offset": 15986,
+      "offset": 14179,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24600,
+      "offset": 22765,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "FloatLiteral",
-      "offset": 24646,
+      "offset": 22811,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24685,
+      "offset": 22850,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30469,
+      "offset": 28634,
       "length": 4,
       "value": "true"
     },
@@ -5473,13 +5124,6 @@
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSInputArea.swift",
-      "kind": "BooleanLiteral",
-      "offset": 313,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 257,
@@ -5606,13 +5250,6 @@
       "value": "\"DATE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSRadioButtonView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 343,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
       "kind": "BooleanLiteral",
       "offset": 1517,
@@ -5660,20 +5297,6 @@
       "offset": 3388,
       "length": 1,
       "value": "6"
-    },
-    {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4706,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4848,
-      "length": 1,
-      "value": "8"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
@@ -5837,32 +5460,11 @@
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSHorizontalLine.swift",
-      "kind": "BooleanLiteral",
-      "offset": 302,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSDatePicker.swift",
-      "kind": "BooleanLiteral",
-      "offset": 312,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSDatePicker.swift",
       "kind": "StringLiteral",
-      "offset": 492,
+      "offset": 459,
       "length": 12,
       "value": "\"yyyy-MM-dd\""
-    },
-    {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSCheckbox.swift",
-      "kind": "BooleanLiteral",
-      "offset": 309,
-      "length": 4,
-      "value": "true"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
@@ -6047,13 +5649,6 @@
       "value": "[]"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSFlowButton.swift",
-      "kind": "BooleanLiteral",
-      "offset": 296,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/Base\/FBSNavigationViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2395,
@@ -6101,13 +5696,6 @@
       "offset": 1504,
       "length": 4,
       "value": "1440"
-    },
-    {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSInputField.swift",
-      "kind": "BooleanLiteral",
-      "offset": 310,
-      "length": 4,
-      "value": "true"
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/FBSNativeSignallingClient.swift",
@@ -6222,13 +5810,6 @@
       "value": "\"WebSocket\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLabel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 328,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/GroupControlOperatorType.swift",
       "kind": "StringLiteral",
       "offset": 278,
@@ -6341,74 +5922,46 @@
       "value": "4"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSCreditProductDropdownButton.swift",
-      "kind": "BooleanLiteral",
-      "offset": 334,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSA1ImageView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 297,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSConsentToggle.swift",
-      "kind": "BooleanLiteral",
-      "offset": 317,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1339,
+      "offset": 1293,
       "length": 10,
       "value": "\"required\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1368,
+      "offset": 1322,
       "length": 8,
       "value": "\"hidden\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1408,
+      "offset": 1362,
       "length": 12,
       "value": "\"allowedExt\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1446,
+      "offset": 1400,
       "length": 9,
       "value": "\"maxSize\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1479,
+      "offset": 1433,
       "length": 11,
       "value": "\"sizeError\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1519,
+      "offset": 1473,
       "length": 10,
       "value": "\"extError\""
-    },
-    {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
-      "kind": "StringLiteral",
-      "offset": 1552,
-      "length": 12,
-      "value": "\"allignment\""
     },
     {
       "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
@@ -6742,42 +6295,28 @@
     {
       "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 726,
-      "length": 9,
-      "value": "\"A1-Logo\""
-    },
-    {
-      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 860,
-      "length": 10,
-      "value": "\"MFG-Logo\""
-    },
-    {
-      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 1001,
+      "offset": 734,
       "length": 13,
       "value": "\"face-cutout\""
     },
     {
       "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1156,
+      "offset": 889,
       "length": 19,
       "value": "\"face-error-cutout\""
     },
     {
       "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1311,
+      "offset": 1044,
       "length": 16,
       "value": "\"id-card-cutout\""
     },
     {
       "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1474,
+      "offset": 1207,
       "length": 22,
       "value": "\"id-card-error-cutout\""
     }
