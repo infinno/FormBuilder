@@ -351,6 +351,9 @@ SWIFT_CLASS_NAMED("FBSAppearance")
 /// If this is set to anything other than <code>.nan</code>, the <code>buttonCornerStyle</code> is ignored. Default is <code>.nan</code>.
 @property (nonatomic) CGFloat buttonCornerRadius;
 @property (nonatomic, strong) UIFont * _Nonnull consentLinkButtonFont;
+@property (nonatomic) BOOL embedInstructionsLabelInBubble;
+@property (nonatomic, strong) UIColor * _Nonnull bubbleBackgroundColor;
+@property (nonatomic) CGFloat bubbleCornerRadius;
 /// The distance from a button’s leading edge to the screen’s leading edge.
 /// May not apply to all buttons 😬
 @property (nonatomic) CGFloat buttonLeadingSpace SWIFT_DEPRECATED_MSG("", "leadingSpace");
@@ -805,6 +808,9 @@ SWIFT_CLASS_NAMED("FBSAppearance")
 /// If this is set to anything other than <code>.nan</code>, the <code>buttonCornerStyle</code> is ignored. Default is <code>.nan</code>.
 @property (nonatomic) CGFloat buttonCornerRadius;
 @property (nonatomic, strong) UIFont * _Nonnull consentLinkButtonFont;
+@property (nonatomic) BOOL embedInstructionsLabelInBubble;
+@property (nonatomic, strong) UIColor * _Nonnull bubbleBackgroundColor;
+@property (nonatomic) CGFloat bubbleCornerRadius;
 /// The distance from a button’s leading edge to the screen’s leading edge.
 /// May not apply to all buttons 😬
 @property (nonatomic) CGFloat buttonLeadingSpace SWIFT_DEPRECATED_MSG("", "leadingSpace");

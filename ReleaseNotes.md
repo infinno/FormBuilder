@@ -1,5 +1,8 @@
 # Release notes
 
+## v1.3.1 (7)
+- Bugfixes.
+
 ## v1.3.0 (6)
 - The backend instance URL is now mandatory when initialising the SDK.  
 
