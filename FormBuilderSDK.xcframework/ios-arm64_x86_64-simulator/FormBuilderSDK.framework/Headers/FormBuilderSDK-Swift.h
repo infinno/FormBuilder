@@ -351,9 +351,6 @@ SWIFT_CLASS_NAMED("FBSAppearance")
 /// If this is set to anything other than <code>.nan</code>, the <code>buttonCornerStyle</code> is ignored. Default is <code>.nan</code>.
 @property (nonatomic) CGFloat buttonCornerRadius;
 @property (nonatomic, strong) UIFont * _Nonnull consentLinkButtonFont;
-@property (nonatomic) BOOL embedInstructionsLabelInBubble;
-@property (nonatomic, strong) UIColor * _Nonnull bubbleBackgroundColor;
-@property (nonatomic) CGFloat bubbleCornerRadius;
 /// The distance from a button’s leading edge to the screen’s leading edge.
 /// May not apply to all buttons 😬
 @property (nonatomic) CGFloat buttonLeadingSpace SWIFT_DEPRECATED_MSG("", "leadingSpace");
@@ -393,11 +390,27 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) FBSAppearance * _Nonnu
 ///
 /// let formBuilder = FormBuilder(appearance: appearance)
 ///
+/// \endcode\param instanceURL The URL of the FormBuilder/KYC instance, usually in the form of <code>https://your-kyc-backend.net/ss</code>. The URL has to use HTTPS. You must make sure you’re providing a valid URL.
+///
+/// \param appearance An optional parameter which is used to configure some of the appearance of the labels, fields, buttons. If you don’t pass an appearance object, the SDK will use default values.
+///
+- (nonnull instancetype)initWithInstanceURL:(NSURL * _Nonnull)instanceURL appearance:(FBSAppearance * _Nonnull)appearance OBJC_DESIGNATED_INITIALIZER;
+/// asdas
+/// Creates an instance of <code>FormBuilder</code>.
+/// \code
+/// let appearance = FBSAppearance()
+/// appearance.backgroundColor = .systemIndigo
+/// appearance.tintColor = .systemGreen
+/// appearance.buttonCornerStyle = .capsule
+/// appearance.textColor = .white
+///
+/// let formBuilder = FormBuilder(appearance: appearance)
+///
 /// \endcode\param formBuilderInstanceURL The URL of the FormBuilder/KYC instance. The URL has to use HTTPS. If not supplied or if the URL is invalid, the default URL will be used, so you must make sure you’re providing a valid URL.
 ///
 /// \param appearance An optional parameter which is used to configure some of the appearance of the labels, fields, buttons. If you don’t pass an appearance object, the SDK will use default values.
 ///
-- (nonnull instancetype)initWithFormBuilderInstanceURL:(NSURL * _Nullable)formBuilderInstanceURL appearance:(FBSAppearance * _Nonnull)appearance OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithFormBuilderInstanceURL:(NSURL * _Nullable)formBuilderInstanceURL appearance:(FBSAppearance * _Nonnull)appearance OBJC_DESIGNATED_INITIALIZER SWIFT_UNAVAILABLE_MSG("'init' has been renamed to 'initWithInstanceURL:appearance:': The instance’s URL is mandatory.");
 /// Opens UI based on the type of the process corresponding to the provided ID.
 /// An Objective-C-compatible version of the <code>startProcess(withId:callingServiceToken:delegate:didStartProcess:)</code> method.
 /// \param id The UUID of the process you want to start.
@@ -792,9 +805,6 @@ SWIFT_CLASS_NAMED("FBSAppearance")
 /// If this is set to anything other than <code>.nan</code>, the <code>buttonCornerStyle</code> is ignored. Default is <code>.nan</code>.
 @property (nonatomic) CGFloat buttonCornerRadius;
 @property (nonatomic, strong) UIFont * _Nonnull consentLinkButtonFont;
-@property (nonatomic) BOOL embedInstructionsLabelInBubble;
-@property (nonatomic, strong) UIColor * _Nonnull bubbleBackgroundColor;
-@property (nonatomic) CGFloat bubbleCornerRadius;
 /// The distance from a button’s leading edge to the screen’s leading edge.
 /// May not apply to all buttons 😬
 @property (nonatomic) CGFloat buttonLeadingSpace SWIFT_DEPRECATED_MSG("", "leadingSpace");
@@ -834,11 +844,27 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) FBSAppearance * _Nonnu
 ///
 /// let formBuilder = FormBuilder(appearance: appearance)
 ///
+/// \endcode\param instanceURL The URL of the FormBuilder/KYC instance, usually in the form of <code>https://your-kyc-backend.net/ss</code>. The URL has to use HTTPS. You must make sure you’re providing a valid URL.
+///
+/// \param appearance An optional parameter which is used to configure some of the appearance of the labels, fields, buttons. If you don’t pass an appearance object, the SDK will use default values.
+///
+- (nonnull instancetype)initWithInstanceURL:(NSURL * _Nonnull)instanceURL appearance:(FBSAppearance * _Nonnull)appearance OBJC_DESIGNATED_INITIALIZER;
+/// asdas
+/// Creates an instance of <code>FormBuilder</code>.
+/// \code
+/// let appearance = FBSAppearance()
+/// appearance.backgroundColor = .systemIndigo
+/// appearance.tintColor = .systemGreen
+/// appearance.buttonCornerStyle = .capsule
+/// appearance.textColor = .white
+///
+/// let formBuilder = FormBuilder(appearance: appearance)
+///
 /// \endcode\param formBuilderInstanceURL The URL of the FormBuilder/KYC instance. The URL has to use HTTPS. If not supplied or if the URL is invalid, the default URL will be used, so you must make sure you’re providing a valid URL.
 ///
 /// \param appearance An optional parameter which is used to configure some of the appearance of the labels, fields, buttons. If you don’t pass an appearance object, the SDK will use default values.
 ///
-- (nonnull instancetype)initWithFormBuilderInstanceURL:(NSURL * _Nullable)formBuilderInstanceURL appearance:(FBSAppearance * _Nonnull)appearance OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithFormBuilderInstanceURL:(NSURL * _Nullable)formBuilderInstanceURL appearance:(FBSAppearance * _Nonnull)appearance OBJC_DESIGNATED_INITIALIZER SWIFT_UNAVAILABLE_MSG("'init' has been renamed to 'initWithInstanceURL:appearance:': The instance’s URL is mandatory.");
 /// Opens UI based on the type of the process corresponding to the provided ID.
 /// An Objective-C-compatible version of the <code>startProcess(withId:callingServiceToken:delegate:didStartProcess:)</code> method.
 /// \param id The UUID of the process you want to start.

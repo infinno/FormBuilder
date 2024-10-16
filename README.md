@@ -19,7 +19,7 @@ Once you have your Swift project set up, adding FormBuilderSDK as a dependency i
 
 ```swift
 dependencies: [
-	.package(url: "https://github.com/infinno/FormBuilder.git", .upToNextMajor(from: "1.1.0"))
+	.package(url: "https://github.com/infinno/FormBuilder.git", .upToNextMajor(from: "1.3.0"))
 ]
 ```
 
@@ -39,7 +39,7 @@ You can Option+Click on the methods and properties to view documentation.
 The basic usage:
 
 ```swift
-let formBuilder = FormBuilder()
+let formBuilder = FormBuilder(instanceURL: {YOUR_BACKEND_URL})
 
 formBuilder.startProcess(withId: {A_PROCESS_ID}, callingServiceToken: {TOKEN}, delegate: delegate, didStartProcess: { result in
 	switch result {
@@ -51,7 +51,7 @@ formBuilder.startProcess(withId: {A_PROCESS_ID}, callingServiceToken: {TOKEN}, d
 })
 ```
 
-This creates an instance of `FormBuilder` and then opens a new interface based on the type of the process corresponding to the provided ID. The `callingServiceToken` argument is a unique client identifier that will be stored in the submission.
+This creates an instance of `FormBuilder` pointing to your backend and then opens a new interface based on the type of the process corresponding to the provided ID. The `callingServiceToken` argument is a unique client identifier that will be stored in the submission.
 
 In the `startProcess(withId:callingServiceToken:delegate:didStartProcess:)` method you should also pass an object conforming to the `FBSDelegate` protocol. The `FBSDelegate` protocol only defines one method `closedForm(onStepWithID:)` that is called when the user closes the FormBuilder interface and will give you the ID of the step where the user closed the framework UI.
 The `didStartProcess` closure tells you whether opening the process was successful or there was some error.
@@ -60,7 +60,7 @@ The `didStartProcess` closure tells you whether opening the process was successf
 
 ```swift
 
-let formBuilder = FormBuilder()
+let formBuilder = FormBuilder(instanceURL: {YOUR_BACKEND_URL})
 
 formBuilder.openStep(withId: {A_STEP_ID}, delegate: delegate, didOpenStep: { result in
 	switch result {
@@ -72,19 +72,19 @@ formBuilder.openStep(withId: {A_STEP_ID}, delegate: delegate, didOpenStep: { res
 })
 ```
 
-This creates an instance of `FormBuilder` and then opens a new interface of a previously created process at the step which the user has reached before (e.g. if they have interrupted it for some reason). It can also just be the first step for a process that the backend has preconfigured in some way.
+This creates an instance of `FormBuilder` pointing to your backend and then opens a new interface of a previously created process at the step which the user has reached before (e.g. if they have interrupted it for some reason). It can also just be the first step for a process that the backend has preconfigured in some way.
 
  In the `openStep(withId:delegate:didOpenStep:)` method you should also pass an object conforming to the `FBSDelegate` protocol. The `FBSDelegate` protocol only defines one method `closedForm(onStepWithID:)` that is called when the user closes the FormBuilder interface and will give you the ID of the step where the user closed the framework UI.
 The `didOpenStep` closure tells you whether opening the process was successful or there was some error.
 
 ---
 
-You can provide an (optional) `URL` in the `FormBuilder` initialiser which points to your own FormBuilder/KYC instance. If you don’t the default instance will be used.
+You provide an `URL` in the `FormBuilder` initialiser which points to your own FormBuilder/KYC instance.
 
 ```swift
-let myKYCBackendURL = URL(string: "https://kyc.example.com/ss")!
+let KYCBackendURL = URL(string: "https://your-kyc-backend.net/ss")!
 
-let formBuilder = FormBuilder(formBuilderInstanceURL: myKYCBackendURL) 
+let formBuilder = FormBuilder(instanceURL: KYCBackendURL) 
 ``` 
 
 Optionally you can pass an `FBSAppearance` object to the `FormBuilder` initialiser with which you can configure some of the appearance of the labels, fields, buttons:
@@ -96,7 +96,7 @@ appearance.tintColor = .systemGreen
 appearance.buttonCornerStyle = .capsule
 appearance.textColor = .white
 
-let formBuilder = FormBuilder(appearance: appearance)
+let formBuilder = FormBuilder(instanceURL: KYCBackendURL, appearance: appearance)
 ```
 
 If you don’t pass an appearance object, the SDK will use default values.
