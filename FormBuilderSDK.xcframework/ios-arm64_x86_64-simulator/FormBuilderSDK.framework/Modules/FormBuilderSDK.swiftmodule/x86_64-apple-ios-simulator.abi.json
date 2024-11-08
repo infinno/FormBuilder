@@ -4743,2030 +4743,2030 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "BooleanLiteral",
       "offset": 350,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "Array",
       "offset": 509,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "StringLiteral",
       "offset": 613,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "StringLiteral",
       "offset": 754,
       "length": 12,
       "value": "\"Other File\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "StringLiteral",
       "offset": 793,
       "length": 8,
       "value": "\"folder\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "StringLiteral",
       "offset": 1066,
       "length": 15,
       "value": "\"Photo Library\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSUploadFileView.swift",
       "kind": "StringLiteral",
       "offset": 1108,
       "length": 20,
       "value": "\"photo.on.rectangle\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Other\/FBSBackendError.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Other\/FBSBackendError.swift",
       "kind": "StringLiteral",
       "offset": 380,
       "length": 9,
       "value": "\"message\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 269,
       "length": 9,
       "value": "\"ADDRESS\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 310,
       "length": 8,
       "value": "\"AMOUNT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 350,
       "length": 13,
       "value": "\"CHECK_FORM1\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 395,
       "length": 13,
       "value": "\"CHECK_FORM2\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 440,
       "length": 13,
       "value": "\"CHECK_HOLO1\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 13,
       "value": "\"CHECK_HOLO2\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 530,
       "length": 16,
       "value": "\"CHOOSE_PRODUCT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 578,
       "length": 13,
       "value": "\"DATE_FORMAT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 623,
       "length": 16,
       "value": "\"DATE_OF_EXPIRY\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 671,
       "length": 15,
       "value": "\"DATE_OF_ISSUE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 718,
       "length": 8,
       "value": "\"DOC_ID\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 758,
       "length": 27,
       "value": "\"FIRST_INSTALLMENT_SETTING\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 817,
       "length": 6,
       "value": "\"NAME\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 855,
       "length": 9,
       "value": "\"NAME_EN\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 896,
       "length": 13,
       "value": "\"ID_BACK_URL\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 941,
       "length": 13,
       "value": "\"ID_FACE_URL\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 986,
       "length": 20,
       "value": "\"INSTALLMENT_AMOUNT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1038,
       "length": 18,
       "value": "\"INSTALLMENT_DATE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1088,
       "length": 11,
       "value": "\"AUTHORITY\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1131,
       "length": 13,
       "value": "\"FATHER_NAME\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1176,
       "length": 16,
       "value": "\"FATHER_NAME_EN\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1224,
       "length": 5,
       "value": "\"MRZ\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1261,
       "length": 13,
       "value": "\"NATIONALITY\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1306,
       "length": 9,
       "value": "\"PERIODS\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1347,
       "length": 16,
       "value": "\"PERIODS_PLURAL\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1395,
       "length": 18,
       "value": "\"PERIODS_SINGULAR\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1445,
       "length": 16,
       "value": "\"PLACE_OF_BIRTH\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1493,
       "length": 7,
       "value": "\"POPUP\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1532,
       "length": 12,
       "value": "\"PRODUCT_ID\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1576,
       "length": 8,
       "value": "\"STATUS\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1616,
       "length": 12,
       "value": "\"SUM_FORMAT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1660,
       "length": 9,
       "value": "\"SURNAME\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1701,
       "length": 12,
       "value": "\"SURNAME_EN\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1745,
       "length": 22,
       "value": "\"TOTAL_AMOUNT_SETTING\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1799,
       "length": 11,
       "value": "\"TOTAL_SUM\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1842,
       "length": 5,
       "value": "\"UIC\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SpecialType.swift",
       "kind": "StringLiteral",
       "offset": 1879,
       "length": 11,
       "value": "\"VIDEO_URL\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSA1Button.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSA1Button.swift",
       "kind": "BooleanLiteral",
       "offset": 293,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 221,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 239,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 258,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 280,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 302,
       "length": 6,
       "value": "\"HEAD\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 325,
       "length": 9,
       "value": "\"OPTIONS\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 349,
       "length": 7,
       "value": "\"TRACE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSHTTPMethod.swift",
       "kind": "StringLiteral",
       "offset": 373,
       "length": 9,
       "value": "\"CONNECT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSSectionView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSSectionView.swift",
       "kind": "Array",
       "offset": 345,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSSectionView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSSectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 376,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
       "kind": "BooleanLiteral",
       "offset": 297,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
       "kind": "StringLiteral",
       "offset": 603,
       "length": 7,
       "value": "\"https\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
       "kind": "StringLiteral",
       "offset": 669,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "StringLiteral",
       "offset": 867,
       "length": 16,
       "value": "\"id-card-cutout\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "StringLiteral",
       "offset": 983,
       "length": 22,
       "value": "\"id-card-error-cutout\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "StringLiteral",
       "offset": 1098,
       "length": 13,
       "value": "\"face-cutout\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "StringLiteral",
       "offset": 1209,
       "length": 19,
       "value": "\"face-error-cutout\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
       "offset": 1556,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
       "offset": 1594,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
       "offset": 1638,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
       "offset": 1678,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "FloatLiteral",
       "offset": 12069,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15852,
+      "offset": 15854,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "Dictionary",
-      "offset": 15986,
+      "offset": 15988,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24600,
+      "offset": 24602,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "FloatLiteral",
-      "offset": 24646,
+      "offset": 24648,
       "length": 4,
       "value": "30.0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24685,
+      "offset": 24687,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30469,
+      "offset": 30475,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/AnimationDuration.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/AnimationDuration.swift",
       "kind": "FloatLiteral",
       "offset": 269,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/AnimationDuration.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/AnimationDuration.swift",
       "kind": "FloatLiteral",
       "offset": 334,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/AnimationDuration.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/AnimationDuration.swift",
       "kind": "FloatLiteral",
       "offset": 401,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/AnimationDuration.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/AnimationDuration.swift",
       "kind": "FloatLiteral",
       "offset": 464,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/AnimationDuration.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/AnimationDuration.swift",
       "kind": "FloatLiteral",
       "offset": 528,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
       "kind": "StringLiteral",
       "offset": 472,
       "length": 4,
       "value": "\"hb\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
       "kind": "StringLiteral",
       "offset": 513,
       "length": 7,
       "value": "\"rects\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
       "kind": "StringLiteral",
       "offset": 552,
       "length": 13,
       "value": "\"removeRects\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
       "kind": "StringLiteral",
       "offset": 594,
       "length": 10,
       "value": "\"position\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
       "kind": "StringLiteral",
       "offset": 623,
       "length": 5,
       "value": "\"ocr\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
       "kind": "StringLiteral",
       "offset": 712,
       "length": 14,
       "value": "\"nn-connected\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
       "kind": "BooleanLiteral",
       "offset": 3748,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/WebSocket\/FBSWebSocketModels.swift",
       "kind": "BooleanLiteral",
       "offset": 3784,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/GroupControlConditionJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/GroupControlConditionJSON.swift",
       "kind": "StringLiteral",
       "offset": 481,
       "length": 10,
       "value": "\"operator\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/GroupControlConditionJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/GroupControlConditionJSON.swift",
       "kind": "StringLiteral",
       "offset": 512,
       "length": 6,
       "value": "\"hide\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SubmissionContainer.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SubmissionContainer.swift",
       "kind": "StringLiteral",
       "offset": 324,
       "length": 11,
       "value": "\"direction\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
       "kind": "BooleanLiteral",
       "offset": 447,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
       "kind": "StringLiteral",
       "offset": 885,
       "length": 6,
       "value": "\"Base\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
       "kind": "Array",
       "offset": 950,
       "length": 6,
       "value": "[\"bg\"]"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
       "kind": "StringLiteral",
       "offset": 1173,
       "length": 40,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
       "kind": "StringLiteral",
       "offset": 1184,
       "length": 1,
       "value": "\";q=\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
       "kind": "FloatLiteral",
       "offset": 1189,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
       "kind": "FloatLiteral",
       "offset": 1208,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
       "kind": "StringLiteral",
       "offset": 1212,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
       "kind": "StringLiteral",
       "offset": 1258,
       "length": 4,
       "value": "\", \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSNetwork.swift",
       "kind": "IntegerLiteral",
       "offset": 1458,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/FBSSignallingClient.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/FBSSignallingClient.swift",
       "kind": "StringLiteral",
       "offset": 271,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/FBSSignallingClient.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/FBSSignallingClient.swift",
       "kind": "BooleanLiteral",
       "offset": 696,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/FBSSignallingClient.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/FBSSignallingClient.swift",
       "kind": "BooleanLiteral",
       "offset": 1105,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSInputArea.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSInputArea.swift",
       "kind": "BooleanLiteral",
       "offset": 313,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 6,
       "value": "\"TEXT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 287,
       "length": 10,
       "value": "\"NEW_LINE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 321,
       "length": 17,
       "value": "\"HORIZONTAL_LINE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 362,
       "length": 7,
       "value": "\"INPUT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 393,
       "length": 6,
       "value": "\"AREA\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 423,
       "length": 10,
       "value": "\"CHECKBOX\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 457,
       "length": 7,
       "value": "\"RADIO\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 488,
       "length": 10,
       "value": "\"DROPDOWN\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 522,
       "length": 6,
       "value": "\"FLOW\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 552,
       "length": 9,
       "value": "\"SECTION\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 585,
       "length": 7,
       "value": "\"GROUP\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 616,
       "length": 9,
       "value": "\"CONSENT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 649,
       "length": 8,
       "value": "\"SUBMIT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 681,
       "length": 13,
       "value": "\"UPLOAD_FILE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 718,
       "length": 6,
       "value": "\"HINT\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 748,
       "length": 6,
       "value": "\"LINK\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 778,
       "length": 14,
       "value": "\"NOMENCLATURE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldType.swift",
       "kind": "StringLiteral",
       "offset": 816,
       "length": 6,
       "value": "\"DATE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSRadioButtonView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSRadioButtonView.swift",
       "kind": "BooleanLiteral",
       "offset": 343,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
       "kind": "BooleanLiteral",
       "offset": 1517,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
       "kind": "IntegerLiteral",
       "offset": 2319,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
       "kind": "IntegerLiteral",
       "offset": 2575,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
       "kind": "FloatLiteral",
       "offset": 2585,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
       "kind": "IntegerLiteral",
       "offset": 2626,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
       "kind": "FloatLiteral",
       "offset": 2636,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
       "kind": "IntegerLiteral",
       "offset": 3388,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
       "kind": "BooleanLiteral",
       "offset": 4706,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/FBSAppearance.swift",
       "kind": "IntegerLiteral",
       "offset": 4848,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
       "kind": "StringLiteral",
       "offset": 213,
       "length": 7,
       "value": "\"START\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
       "kind": "StringLiteral",
       "offset": 236,
       "length": 9,
       "value": "\"ID_FACE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
       "kind": "StringLiteral",
       "offset": 261,
       "length": 9,
       "value": "\"ID_BACK\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
       "kind": "StringLiteral",
       "offset": 286,
       "length": 8,
       "value": "\"SELFIE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
       "kind": "StringLiteral",
       "offset": 309,
       "length": 7,
       "value": "\"HANDS\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/KYC\/KYCState.swift",
       "kind": "StringLiteral",
       "offset": 334,
       "length": 11,
       "value": "\"GET_IMAGE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Credit Calculator\/CreditInstalmentDetailsJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Credit Calculator\/CreditInstalmentDetailsJSON.swift",
       "kind": "StringLiteral",
       "offset": 523,
       "length": 19,
       "value": "\"installmentAmount\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Credit Calculator\/CreditInstalmentDetailsJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Credit Calculator\/CreditInstalmentDetailsJSON.swift",
       "kind": "StringLiteral",
       "offset": 583,
       "length": 9,
       "value": "\"acruals\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Helpers.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Helpers.swift",
       "kind": "BooleanLiteral",
       "offset": 2841,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 317,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 325,
       "length": 24,
       "value": "1"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 356,
       "length": 28,
       "value": "2"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 391,
       "length": 25,
       "value": "3"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 423,
       "length": 16,
       "value": "4"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 446,
       "length": 17,
       "value": "5"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/Selfie\/SelfieStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 470,
       "length": 17,
       "value": "6"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Submit\/FBSFile.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Submit\/FBSFile.swift",
       "kind": "BooleanLiteral",
       "offset": 414,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoClient.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoClient.swift",
       "kind": "FloatLiteral",
       "offset": 635,
       "length": 4,
       "value": "30.0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoClient.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoClient.swift",
       "kind": "BooleanLiteral",
       "offset": 741,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoClient.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoClient.swift",
       "kind": "IntegerLiteral",
       "offset": 3324,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSRadioButton.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSRadioButton.swift",
       "kind": "StringLiteral",
       "offset": 635,
       "length": 31,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSRadioButton.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSRadioButton.swift",
       "kind": "StringLiteral",
       "offset": 652,
       "length": 1,
       "value": "\".\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSRadioButton.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSRadioButton.swift",
       "kind": "StringLiteral",
       "offset": 665,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSHorizontalLine.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSHorizontalLine.swift",
       "kind": "BooleanLiteral",
       "offset": 302,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSDatePicker.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSDatePicker.swift",
       "kind": "BooleanLiteral",
       "offset": 312,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSDatePicker.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSDatePicker.swift",
       "kind": "StringLiteral",
       "offset": 492,
       "length": 12,
       "value": "\"yyyy-MM-dd\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSCheckbox.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSCheckbox.swift",
       "kind": "BooleanLiteral",
       "offset": 309,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "IntegerLiteral",
       "offset": 5559,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "IntegerLiteral",
       "offset": 8664,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "IntegerLiteral",
       "offset": 9146,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "StringLiteral",
       "offset": 9182,
       "length": 55,
       "value": "\"absoluteTolerance should be non-negative and finite, \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "StringLiteral",
       "offset": 9243,
       "length": 30,
       "value": "\"but is \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "StringLiteral",
       "offset": 9271,
       "length": 1,
       "value": "\".\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "IntegerLiteral",
       "offset": 9312,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "IntegerLiteral",
       "offset": 9338,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "StringLiteral",
       "offset": 9344,
       "length": 53,
       "value": "\"relativeTolerance should be non-negative and <= 1, \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "StringLiteral",
       "offset": 9403,
       "length": 30,
       "value": "\"but is \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "StringLiteral",
       "offset": 9431,
       "length": 1,
       "value": "\".\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/ApproximateEquality.swift",
       "kind": "BooleanLiteral",
       "offset": 9466,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/DocData\/DocDataStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/DocData\/DocDataStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 318,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/DocData\/DocDataStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/DocData\/DocDataStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 326,
       "length": 15,
       "value": "1"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/DocData\/DocDataStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/DocData\/DocDataStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 348,
       "length": 12,
       "value": "2"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/DocData\/DocDataStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/DocData\/DocDataStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 367,
       "length": 14,
       "value": "3"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/DocData\/DocDataStatusJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/DocData\/DocDataStatusJSON.swift",
       "kind": "IntegerLiteral",
       "offset": 388,
       "length": 13,
       "value": "4"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSMultipartData.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Network\/FBSMultipartData.swift",
       "kind": "BooleanLiteral",
       "offset": 1321,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
       "kind": "IntegerLiteral",
       "offset": 674,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
       "kind": "IntegerLiteral",
       "offset": 1026,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
       "kind": "IntegerLiteral",
       "offset": 1178,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
       "kind": "IntegerLiteral",
       "offset": 1652,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
       "kind": "IntegerLiteral",
       "offset": 1906,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSCreditCalculatorController.swift",
       "kind": "IntegerLiteral",
       "offset": 1953,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSFormController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSFormController.swift",
       "kind": "Array",
       "offset": 312,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSFormController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/FBSFormController.swift",
       "kind": "Dictionary",
       "offset": 443,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSFlowButton.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSFlowButton.swift",
       "kind": "BooleanLiteral",
       "offset": 296,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/Base\/FBSNavigationViewController.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Controllers\/Base\/FBSNavigationViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2395,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "StringLiteral",
       "offset": 932,
       "length": 16,
       "value": "\".session.queue\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "StringLiteral",
       "offset": 1030,
       "length": 20,
       "value": "\"video.output.queue\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1446,
       "length": 4,
       "value": "1920"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1460,
       "length": 4,
       "value": "1440"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1490,
       "length": 4,
       "value": "1920"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "IntegerLiteral",
       "offset": 1504,
       "length": 4,
       "value": "1440"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSInputField.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSInputField.swift",
       "kind": "BooleanLiteral",
       "offset": 310,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/FBSNativeSignallingClient.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Signalling\/FBSNativeSignallingClient.swift",
       "kind": "BooleanLiteral",
       "offset": 370,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SubmissionType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SubmissionType.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 6,
       "value": "\"FORM\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SubmissionType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SubmissionType.swift",
       "kind": "StringLiteral",
       "offset": 279,
       "length": 8,
       "value": "\"SELFIE\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SubmissionType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SubmissionType.swift",
       "kind": "StringLiteral",
       "offset": 304,
       "length": 10,
       "value": "\"DOC_DATA\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SubmissionType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/SubmissionType.swift",
       "kind": "StringLiteral",
       "offset": 326,
       "length": 4,
       "value": "\"OK\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 612,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
       "offset": 2795,
       "length": 4,
       "value": "\"OK\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "BooleanLiteral",
       "offset": 2855,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
       "offset": 2885,
       "length": 14,
       "value": "\"Отмени\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
       "offset": 3484,
       "length": 14,
       "value": "\"Грешка\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
       "offset": 6651,
       "length": 34,
       "value": "\".didChangeVideoCaptureDimensions\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
       "offset": 6804,
       "length": 13,
       "value": "\"FormBuilder\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
       "offset": 6900,
       "length": 9,
       "value": "\"Network\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
       "offset": 6992,
       "length": 12,
       "value": "\"Signalling\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
       "offset": 7087,
       "length": 14,
       "value": "\"VideoCapture\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
       "offset": 7184,
       "length": 11,
       "value": "\"WebSocket\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLabel.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSLabel.swift",
       "kind": "BooleanLiteral",
       "offset": 328,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/GroupControlOperatorType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/GroupControlOperatorType.swift",
       "kind": "StringLiteral",
       "offset": 278,
       "length": 7,
       "value": "\"EQUAL\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/GroupControlOperatorType.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/GroupControlOperatorType.swift",
       "kind": "StringLiteral",
       "offset": 303,
       "length": 8,
       "value": "\"NOT_EQ\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "Array",
       "offset": 911,
       "length": 22,
       "value": "[0x00, 0x00, 0x00, 0x01]"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "StringLiteral",
-      "offset": 3556,
+      "offset": 3631,
       "length": 21,
       "value": "\"sampleBuffer is nil\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "StringLiteral",
-      "offset": 3662,
+      "offset": 3737,
       "length": 29,
       "value": "\"outputCallbackRefCon is nil\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "StringLiteral",
-      "offset": 3767,
+      "offset": 3842,
       "length": 38,
       "value": "\"encoding failed with error \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "StringLiteral",
-      "offset": 3804,
+      "offset": 3879,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "StringLiteral",
-      "offset": 3905,
+      "offset": 3980,
       "length": 36,
       "value": "\"CMSampleBuffer is not ready to use\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "StringLiteral",
-      "offset": 4043,
+      "offset": 4118,
       "length": 15,
       "value": "\"frame dropped\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "IntegerLiteral",
-      "offset": 4516,
+      "offset": 4591,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "IntegerLiteral",
-      "offset": 4651,
+      "offset": 4726,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "IntegerLiteral",
-      "offset": 5388,
+      "offset": 5463,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "IntegerLiteral",
-      "offset": 5696,
+      "offset": 5771,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "IntegerLiteral",
-      "offset": 5770,
+      "offset": 5845,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "IntegerLiteral",
-      "offset": 6142,
+      "offset": 6217,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Video Streaming\/H264Encoder.swift",
       "kind": "IntegerLiteral",
-      "offset": 6214,
+      "offset": 6289,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSCreditProductDropdownButton.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSCreditProductDropdownButton.swift",
       "kind": "BooleanLiteral",
       "offset": 334,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSA1ImageView.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSA1ImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 297,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSConsentToggle.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Classes\/Controls\/FBSConsentToggle.swift",
       "kind": "BooleanLiteral",
       "offset": 317,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
       "offset": 1339,
       "length": 10,
       "value": "\"required\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
       "offset": 1368,
       "length": 8,
       "value": "\"hidden\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
       "offset": 1408,
       "length": 12,
       "value": "\"allowedExt\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
       "offset": 1446,
       "length": 9,
       "value": "\"maxSize\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
       "offset": 1479,
       "length": 11,
       "value": "\"sizeError\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
       "offset": 1519,
       "length": 10,
       "value": "\"extError\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
       "offset": 1552,
       "length": 12,
       "value": "\"allignment\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 302,
       "length": 14,
       "value": "\"CFBundleName\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 408,
       "length": 20,
       "value": "\"CFBundleIdentifier\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 519,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 636,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 719,
       "length": 27,
       "value": "\"eu.infinno.FormBuilderSDK\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 822,
       "length": 20,
       "value": "\"CFBundleIdentifier\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 927,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1038,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1286,
       "length": 37,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1304,
       "length": 1,
       "value": "\" (\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1321,
       "length": 1,
       "value": "\")\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1367,
       "length": 29,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1381,
       "length": 1,
       "value": "\" (\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1394,
       "length": 1,
       "value": "\")\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1455,
       "length": 90,
       "value": "\"Някой не е въвел правилно съобщение за грешка 👀\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1587,
       "length": 10,
       "value": "\"​\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "FloatLiteral",
       "offset": 2359,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2436,
       "length": 195,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2451,
       "length": 1,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2465,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2481,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "BooleanLiteral",
       "offset": 2524,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2533,
       "length": 1,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2551,
       "length": 1,
       "value": "\" (\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2571,
       "length": 1,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2587,
       "length": 1,
       "value": "\") FormBuilderSDK\/\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2617,
       "length": 1,
       "value": "\"(\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2629,
       "length": 1,
       "value": "\")\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2805,
       "length": 11,
       "value": "\"userAgent\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2846,
       "length": 144,
       "value": "\" \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "BooleanLiteral",
       "offset": 2890,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2899,
       "length": 1,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2917,
       "length": 1,
       "value": "\".\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2933,
       "length": 14,
       "value": "\" FormBuilderSDK\/\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2962,
       "length": 1,
       "value": "\".\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2974,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2989,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 3012,
       "length": 186,
       "value": "\"\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 3027,
       "length": 1,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 3045,
       "length": 1,
       "value": "\" (\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 3065,
       "length": 1,
       "value": "\"; version:\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 3092,
       "length": 1,
       "value": "\"; build:\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 3115,
       "length": 1,
       "value": "\"; \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 3130,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 3147,
       "length": 1,
       "value": "\") FormBuilderSDK\/\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 3177,
       "length": 1,
       "value": "\" (build:\""
     },
     {
-      "filePath": "\/Volumes\/dev\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
+      "filePath": "\/Users\/mladen\/Developer\/iOS\/FormBuilderSDK\/FormBuilderSDK\/Helpers\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 3196,
       "length": 1,
       "value": "\")\""
     },
     {
-      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-cpcrtivlmrohwqewmninxjjbakzw\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 726,
       "length": 9,
       "value": "\"A1-Logo\""
     },
     {
-      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-cpcrtivlmrohwqewmninxjjbakzw\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 860,
       "length": 10,
       "value": "\"MFG-Logo\""
     },
     {
-      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-cpcrtivlmrohwqewmninxjjbakzw\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1001,
       "length": 13,
       "value": "\"face-cutout\""
     },
     {
-      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-cpcrtivlmrohwqewmninxjjbakzw\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1156,
       "length": 19,
       "value": "\"face-error-cutout\""
     },
     {
-      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-cpcrtivlmrohwqewmninxjjbakzw\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1311,
       "length": 16,
       "value": "\"id-card-cutout\""
     },
     {
-      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-dakxsxxtnecibcdcrelsfcaerzkd\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/mladen\/Library\/Developer\/Xcode\/DerivedData\/FormBuilderSDK-cpcrtivlmrohwqewmninxjjbakzw\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FormBuilderSDK\/IntermediateBuildFilesPath\/FormBuilderSDK.build\/Release-iphonesimulator\/FormBuilderSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1474,
       "length": 22,
