@@ -1,5 +1,8 @@
 # Release notes
 
+## v1.3.3 (9)
+- Improved communication with the backend.
+
 ## v1.3.2 (8)
 - Significantly reduced the bit rate of the encoded video frames.
 - Changed the keyframe encoding from every 60 frames to every 30 frames or every second (whichever comes first).
