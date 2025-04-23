@@ -1,5 +1,10 @@
 # Release notes
 
+## v1.4.0 (10)
+- Added new types of calculators for extended functionality.
+- Added support for displaying images in forms.
+- Bugfixes.
+
 ## v1.3.3 (9)
 - Improved communication with the backend.
 
