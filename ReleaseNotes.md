@@ -1,5 +1,8 @@
 # Release notes
 
+## v1.4.1 (11)
+- Bugfixes.
+
 ## v1.4.0 (10)
 - Added new types of calculators for extended functionality.
 - Added support for displaying images in forms.

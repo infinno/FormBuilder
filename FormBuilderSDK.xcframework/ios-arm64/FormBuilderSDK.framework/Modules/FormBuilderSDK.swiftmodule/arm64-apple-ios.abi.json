@@ -219,6 +219,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -3625,6 +3632,13 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
+        "moduleName": "FormBuilderSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
         "moduleName": "FormBuilderSDK",
         "declAttributes": [
           "RawDocComment"
@@ -5361,50 +5375,57 @@
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1907,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "FloatLiteral",
-      "offset": 12153,
+      "offset": 12441,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15938,
+      "offset": 16226,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "Dictionary",
-      "offset": 16072,
+      "offset": 16360,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24686,
+      "offset": 24974,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "FloatLiteral",
-      "offset": 24732,
+      "offset": 25020,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24771,
+      "offset": 25059,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30559,
+      "offset": 30847,
       "length": 4,
       "value": "true"
     },
@@ -6251,42 +6272,42 @@
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "StringLiteral",
-      "offset": 932,
+      "offset": 945,
       "length": 16,
       "value": "\".session.queue\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "StringLiteral",
-      "offset": 1030,
+      "offset": 1043,
       "length": 20,
       "value": "\"video.output.queue\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1446,
+      "offset": 1540,
       "length": 4,
       "value": "1920"
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1460,
+      "offset": 1554,
       "length": 4,
       "value": "1440"
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1490,
+      "offset": 1584,
       "length": 4,
       "value": "1920"
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Video Streaming\/VideoCaptureManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1504,
+      "offset": 1598,
       "length": 4,
       "value": "1440"
     },

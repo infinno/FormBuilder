@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name FormBuilderSDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name FormBuilderSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
 import AVFoundation
 import CoreImage
 import DeveloperToolsSupport
@@ -20,15 +20,9 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-#if compiler(>=5.3) && $RetroactiveAttribute
 extension CoreMedia.CMVideoDimensions : @retroactive Swift.Equatable {
   public static func == (lhs: CoreMedia.CMVideoDimensions, rhs: CoreMedia.CMVideoDimensions) -> Swift.Bool
 }
-#else
-extension CoreMedia.CMVideoDimensions : Swift.Equatable {
-  public static func == (lhs: CoreMedia.CMVideoDimensions, rhs: CoreMedia.CMVideoDimensions) -> Swift.Bool
-}
-#endif
 @objc(FBSBackendError) final public class FBSBackendError : ObjectiveC.NSObject, Swift.Decodable, Swift.Error {
   final public let localizedDescription: Swift.String
   @objc deinit
@@ -149,11 +143,21 @@ extension Swift.AdditiveArithmetic {
 @objc(FormBuilder) final public class FormBuilder : ObjectiveC.NSObject {
   @objc public static var appearance: FormBuilderSDK.FBSAppearance
   @objc public init(instanceURL: Foundation.URL, appearance: FormBuilderSDK.FBSAppearance = FBSAppearance())
+  #if compiler(>=5.3) && $NonescapableTypes
   @available(*, unavailable, renamed: "init(instanceURL:appearance:)", message: "The instance’s URL is mandatory.")
   @objc public init(formBuilderInstanceURL: Foundation.URL? = nil, appearance: FormBuilderSDK.FBSAppearance = FBSAppearance())
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   final public func startProcess(withId id: Swift.String, callingServiceToken: Swift.String?, delegate: any FormBuilderSDK.FBSDelegate, didStartProcess: @escaping (Swift.Result<Swift.Bool, any Swift.Error>) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc final public func objc_startProcess(withId id: Swift.String, callingServiceToken: Swift.String?, delegate: any FormBuilderSDK.FBSDelegate, didStartProcess: @escaping (Swift.Bool, (any Swift.Error)?) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   final public func openStep(withId id: Swift.String, delegate: any FormBuilderSDK.FBSDelegate, didOpenStep: @escaping (Swift.Result<Swift.Bool, any Swift.Error>) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc final public func objc_openStep(withId id: Swift.String, delegate: any FormBuilderSDK.FBSDelegate, didOpenStep: @escaping (Swift.Bool, (any Swift.Error)?) -> Swift.Void)
+  #endif
   @objc deinit
 }
