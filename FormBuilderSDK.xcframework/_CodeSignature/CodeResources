@@ -6,15 +6,15 @@
 	<dict>
 		<key>ios-arm64/FormBuilderSDK.framework/Assets.car</key>
 		<data>
-		q29qcy0TyXkNU7e9FvEWWcXX+TM=
+		E0+KDC4P4FmKv29oxyevSrt98LU=
 		</data>
 		<key>ios-arm64/FormBuilderSDK.framework/FormBuilderSDK</key>
 		<data>
-		CylJUyEY4kPrHqQl33xfbQqwyho=
+		7zAMvLS/dMXXouc51HEWJc0zAsY=
 		</data>
 		<key>ios-arm64/FormBuilderSDK.framework/Headers/FormBuilderSDK-Swift.h</key>
 		<data>
-		GoeQwa3EQWoI6V1e0SXafJmDSq4=
+		kGh8iPcVfjS1XKXDKNOZAjxUtDk=
 		</data>
 		<key>ios-arm64/FormBuilderSDK.framework/Headers/FormBuilderSDK.h</key>
 		<data>
@@ -22,31 +22,27 @@
 		</data>
 		<key>ios-arm64/FormBuilderSDK.framework/Info.plist</key>
 		<data>
-		/s1KVapn7paGjpCM9ejGjsBtqeA=
+		K1MyLpR+irtdc0Q6x1IGFDgsGzo=
 		</data>
 		<key>ios-arm64/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		2+ngAB9y2YmXxvwuzc2aUNOuuJY=
+		C4xtf/WPq7qgge7xa6gFMTENTtQ=
 		</data>
 		<key>ios-arm64/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		OsKW243q7vsZ9drM84k7IwuCAsM=
+		dydcIeYsO+LTbo7wD1zzQkEZ9Ck=
 		</data>
 		<key>ios-arm64/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		L/AepCfx1q/e2DJUMpd8jqltiw0=
+		J20+fi+RTKE5cmV8KzTMH0cHlCI=
 		</data>
 		<key>ios-arm64/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		OsKW243q7vsZ9drM84k7IwuCAsM=
+		dydcIeYsO+LTbo7wD1zzQkEZ9Ck=
 		</data>
 		<key>ios-arm64/FormBuilderSDK.framework/Modules/module.modulemap</key>
 		<data>
 		45vjGcdLJ7K7dWYa5ZjnuuR5CsI=
-		</data>
-		<key>ios-arm64/FormBuilderSDK.framework/_.k8s.dev.smartitbg.int.cer</key>
-		<data>
-		8/gDPql3/twJ0hQfFV8r3/z8G9Y=
 		</data>
 		<key>ios-arm64/FormBuilderSDK.framework/assets/white.css</key>
 		<data>
@@ -60,21 +56,17 @@
 		<data>
 		jE4pzs8nIGXp/yKKnqufQKSXYaY=
 		</data>
-		<key>ios-arm64/FormBuilderSDK.framework/eca.easycredit.bg.cer</key>
-		<data>
-		/8QpFHnh8pKiRy6NDNRK3L8Du64=
-		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Assets.car</key>
 		<data>
-		VzfFyijFROHtp+fcRftGTHmnkX8=
+		E0+KDC4P4FmKv29oxyevSrt98LU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/FormBuilderSDK</key>
 		<data>
-		XgxOMVY9KvcYu91b7kIts98Ybqk=
+		sn57i3v3eb3bCtte8avpju8pqfY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Headers/FormBuilderSDK-Swift.h</key>
 		<data>
-		VdEwMCeMAxVLgP0ihW7rmf0aOOU=
+		QTNriVomnVM2KeRBDDjbZ2DVtvo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Headers/FormBuilderSDK.h</key>
 		<data>
@@ -82,51 +74,47 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Info.plist</key>
 		<data>
-		1O4+aTsxXlyyZEd6QA0WnOQThDI=
+		D0Q9CEjSh0U800LJo3MD0GA9bkA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		k1mRuSuHUH3TCmBSxM+Pj241c0I=
+		yMZ3PJ5mpap5DwwobEV2of4V6hE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		3al/DKGwPTYs6lu4J8TAbsqAfmM=
+		InvKzF6keJv0+sRfDbbGZtTTBBE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		6T8Vrhmw2OU1nDY9sGKAXHQUsHk=
+		sPrn1cMUDJAAtvKJJKB4DUjckHU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3al/DKGwPTYs6lu4J8TAbsqAfmM=
+		InvKzF6keJv0+sRfDbbGZtTTBBE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		k1mRuSuHUH3TCmBSxM+Pj241c0I=
+		yMZ3PJ5mpap5DwwobEV2of4V6hE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Z/yy1wRYQ1lpVyMwhtZnxvnURRE=
+		cIj/kZm+WEtJdU8GuhnrugACYto=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		JuwnLSyg6+bxDK1NFqKdVMKh94c=
+		lIsZ4n4c+WfXo5D9W014LLt7AkE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Z/yy1wRYQ1lpVyMwhtZnxvnURRE=
+		cIj/kZm+WEtJdU8GuhnrugACYto=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/module.modulemap</key>
 		<data>
 		45vjGcdLJ7K7dWYa5ZjnuuR5CsI=
 		</data>
-		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/_.k8s.dev.smartitbg.int.cer</key>
-		<data>
-		8/gDPql3/twJ0hQfFV8r3/z8G9Y=
-		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		TtlsIV1c2uMhMRty3W3DsN1Hkjo=
+		QOq/5T9GfE25IZpgFc5my3j7a+Y=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/assets/white.css</key>
 		<data>
@@ -139,53 +127,33 @@
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/assets/white.webm</key>
 		<data>
 		jE4pzs8nIGXp/yKKnqufQKSXYaY=
-		</data>
-		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/eca.easycredit.bg.cer</key>
-		<data>
-		/8QpFHnh8pKiRy6NDNRK3L8Du64=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>ios-arm64/FormBuilderSDK.framework/Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			q29qcy0TyXkNU7e9FvEWWcXX+TM=
-			</data>
 			<key>hash2</key>
 			<data>
-			dIt5/xmd2YdMvra7RmnFkA9i1bz8SROq7Q8jFUClltA=
+			fGqY2jwNg/e9J+QJyzlMlOz8nWzWHyR6Ntck0ucFZyQ=
 			</data>
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/FormBuilderSDK</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CylJUyEY4kPrHqQl33xfbQqwyho=
-			</data>
 			<key>hash2</key>
 			<data>
-			f1mB0ZIS7Kr+E0nLMezFKFJHQT26NPlbWQfKZSRrgx0=
+			+o07fqUF+sWC1GFCA3+m1R4Ds6OtIiW55pZxZ/+BeLY=
 			</data>
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/Headers/FormBuilderSDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GoeQwa3EQWoI6V1e0SXafJmDSq4=
-			</data>
 			<key>hash2</key>
 			<data>
-			26bdFNTz81ZbBD3KDi5pp4FfSePCBota3CS3x12t40c=
+			+0o+nj0n9qG8oLS1gw5mQE+I2Xz2568yMkdTXu1Q8W8=
 			</data>
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/Headers/FormBuilderSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pClFiCMNhZ0vibm4XGt2xXNjXxc=
-			</data>
 			<key>hash2</key>
 			<data>
 			0hA7ppvNjtMEF7aIZjslXScuRaLKuw4CN1f0tYy0yE8=
@@ -193,87 +161,48 @@
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/s1KVapn7paGjpCM9ejGjsBtqeA=
-			</data>
 			<key>hash2</key>
 			<data>
-			551X1/nyeb/zHvHE8nrc04Ld1ABz8YoCtH03CKpSy1A=
+			T9ehkRP/oFCRboEEzH+4bcpmiA6PiMoQiF6vyP54RxI=
 			</data>
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2+ngAB9y2YmXxvwuzc2aUNOuuJY=
-			</data>
 			<key>hash2</key>
 			<data>
-			WGK8iK6BYf0W3lV3Z1LwhaMiTkumpRCnWRUmMabtGuo=
+			539go85p3b7KjL2aoH7vy8tIyhtZZIfs0Cnk9F1YlOI=
 			</data>
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OsKW243q7vsZ9drM84k7IwuCAsM=
-			</data>
 			<key>hash2</key>
 			<data>
-			hgCGVyjobJ24l94ljlBNgNUhuwnXdqZohD4r49Juqew=
+			VdYoNOYr2zuTgxjqfwKBF3FT/tZdal7dIokDaF0+29U=
 			</data>
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			L/AepCfx1q/e2DJUMpd8jqltiw0=
-			</data>
 			<key>hash2</key>
 			<data>
-			/vrNexXWN1/yxnpN/BLAu+HkjCpL1vssshZ/031g7oI=
+			jy/iHX68Anp7geH4qNJBWVTYD/XxT6PcfMaoFLcEKLY=
 			</data>
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OsKW243q7vsZ9drM84k7IwuCAsM=
-			</data>
 			<key>hash2</key>
 			<data>
-			hgCGVyjobJ24l94ljlBNgNUhuwnXdqZohD4r49Juqew=
+			VdYoNOYr2zuTgxjqfwKBF3FT/tZdal7dIokDaF0+29U=
 			</data>
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			45vjGcdLJ7K7dWYa5ZjnuuR5CsI=
-			</data>
 			<key>hash2</key>
 			<data>
 			zl91tvZ4XEgU4ZMzknJAshNnly4IzhNxXH0kpQT0qEo=
 			</data>
 		</dict>
-		<key>ios-arm64/FormBuilderSDK.framework/_.k8s.dev.smartitbg.int.cer</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8/gDPql3/twJ0hQfFV8r3/z8G9Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			LM9ULd8zLGWtJ5p/mxN3ZVd2hC/PoLP8sPeqgkqRMgA=
-			</data>
-		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/assets/white.css</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t3eyzwkS64tcB0pjNMNpjaFsx7g=
-			</data>
 			<key>hash2</key>
 			<data>
 			o7QpfKzzohWxuUeU6sOdJKaXB460vLjx+DIl55cuLNg=
@@ -281,10 +210,6 @@
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/assets/white.html</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			obPgplYp0tSoCSUsyjVxszfxc+c=
-			</data>
 			<key>hash2</key>
 			<data>
 			EN3uNRDph2nH/i99HMN1LJVCZUbg11NotkZAG2Cmk18=
@@ -292,65 +217,34 @@
 		</dict>
 		<key>ios-arm64/FormBuilderSDK.framework/assets/white.webm</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jE4pzs8nIGXp/yKKnqufQKSXYaY=
-			</data>
 			<key>hash2</key>
 			<data>
 			vJLpg7ITYWnVVEZSepKcJLwQOa3a31zMSh3Fau4PxtM=
 			</data>
 		</dict>
-		<key>ios-arm64/FormBuilderSDK.framework/eca.easycredit.bg.cer</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/8QpFHnh8pKiRy6NDNRK3L8Du64=
-			</data>
-			<key>hash2</key>
-			<data>
-			Mz8jF7LBq6jx3rShBCARVmHgYW/ShfwJAb0RR5Z0rYU=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VzfFyijFROHtp+fcRftGTHmnkX8=
-			</data>
 			<key>hash2</key>
 			<data>
-			QgUCIB82mTHQIU2lzBkMo9oK6e+AnoY4PL2iVDIcv9c=
+			fGqY2jwNg/e9J+QJyzlMlOz8nWzWHyR6Ntck0ucFZyQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/FormBuilderSDK</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XgxOMVY9KvcYu91b7kIts98Ybqk=
-			</data>
 			<key>hash2</key>
 			<data>
-			6Vm8TKYWuc5uoAT9ny7Jpm/qtL0hdoywREHtxQqwrrA=
+			JZ0fo6Q3HHiWm7jj/IjTZKm/SLVoXTDKYALbIUbETwo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Headers/FormBuilderSDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VdEwMCeMAxVLgP0ihW7rmf0aOOU=
-			</data>
 			<key>hash2</key>
 			<data>
-			F9b8/wUfQFhbqJDUu3LLTolS/8Ob6CDQcbeTnQWV2mM=
+			ovX7Dv8O4FROqJP41ckqwDNZo2zS1bEPJ+4yjuDNj8I=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Headers/FormBuilderSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pClFiCMNhZ0vibm4XGt2xXNjXxc=
-			</data>
 			<key>hash2</key>
 			<data>
 			0hA7ppvNjtMEF7aIZjslXScuRaLKuw4CN1f0tYy0yE8=
@@ -358,142 +252,83 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1O4+aTsxXlyyZEd6QA0WnOQThDI=
-			</data>
 			<key>hash2</key>
 			<data>
-			sYb9p7bKWjdDgOh37UhPCgdPr0dv81HU3QZxdtU5T4Y=
+			RimgSL9yproAJSX/P80/yGwCO88AEPdpW3VbrvcpPBQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k1mRuSuHUH3TCmBSxM+Pj241c0I=
-			</data>
 			<key>hash2</key>
 			<data>
-			FYSEl8o5M6cneNwHleSzqMuPckmW6ChNysYZEbKUsLk=
+			sNTheTXz9ZvWcgFuuQ7Aih7NkNpBfXPEVagOmyKyfgg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3al/DKGwPTYs6lu4J8TAbsqAfmM=
-			</data>
 			<key>hash2</key>
 			<data>
-			UM5ZUd4OeysJcw8Btx+V4R1IARs7RoY8iEnjqm1a3jw=
+			8YmsvdjeS4AmzKy9lZY/NIRpVKVwFttjZL9sZy5/kOc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6T8Vrhmw2OU1nDY9sGKAXHQUsHk=
-			</data>
 			<key>hash2</key>
 			<data>
-			uIkpJ+8d7k28PVtcPwFNkCgBD5VUYnQGaQarkKQjHcM=
+			E1sx3WYns6llLgthYgF9eI7VFOrtP4HTKMeD6olXDno=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3al/DKGwPTYs6lu4J8TAbsqAfmM=
-			</data>
 			<key>hash2</key>
 			<data>
-			UM5ZUd4OeysJcw8Btx+V4R1IARs7RoY8iEnjqm1a3jw=
+			8YmsvdjeS4AmzKy9lZY/NIRpVKVwFttjZL9sZy5/kOc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k1mRuSuHUH3TCmBSxM+Pj241c0I=
-			</data>
 			<key>hash2</key>
 			<data>
-			FYSEl8o5M6cneNwHleSzqMuPckmW6ChNysYZEbKUsLk=
+			sNTheTXz9ZvWcgFuuQ7Aih7NkNpBfXPEVagOmyKyfgg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Z/yy1wRYQ1lpVyMwhtZnxvnURRE=
-			</data>
 			<key>hash2</key>
 			<data>
-			dSoi3TMdLNaQBA5QQyEFN/rRthzOZ2cPeexCctu/sRI=
+			acggzJrX7qK9nkSfZz1ctkWXJI4Vj5urVTcIW+4nsEs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JuwnLSyg6+bxDK1NFqKdVMKh94c=
-			</data>
 			<key>hash2</key>
 			<data>
-			zxTeToIZVcyNf5f4zQU8zXJb8FjNVciDEuJTVngxBqw=
+			rBuwO/tHN3EuJBnQmrheSPCtEJqimsi0IFiLHWXms1g=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/FormBuilderSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Z/yy1wRYQ1lpVyMwhtZnxvnURRE=
-			</data>
 			<key>hash2</key>
 			<data>
-			dSoi3TMdLNaQBA5QQyEFN/rRthzOZ2cPeexCctu/sRI=
+			acggzJrX7qK9nkSfZz1ctkWXJI4Vj5urVTcIW+4nsEs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			45vjGcdLJ7K7dWYa5ZjnuuR5CsI=
-			</data>
 			<key>hash2</key>
 			<data>
 			zl91tvZ4XEgU4ZMzknJAshNnly4IzhNxXH0kpQT0qEo=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/_.k8s.dev.smartitbg.int.cer</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8/gDPql3/twJ0hQfFV8r3/z8G9Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			LM9ULd8zLGWtJ5p/mxN3ZVd2hC/PoLP8sPeqgkqRMgA=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TtlsIV1c2uMhMRty3W3DsN1Hkjo=
-			</data>
 			<key>hash2</key>
 			<data>
-			eDThHmOO0u5XFjdrZt4NF85P4bd6gAtZfSXH0HRJTIo=
+			/u2xZodsdxqqG2W89Y6/51DyhfuE1VdN9pHDnrW6jEA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/assets/white.css</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t3eyzwkS64tcB0pjNMNpjaFsx7g=
-			</data>
 			<key>hash2</key>
 			<data>
 			o7QpfKzzohWxuUeU6sOdJKaXB460vLjx+DIl55cuLNg=
@@ -501,10 +336,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/assets/white.html</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			obPgplYp0tSoCSUsyjVxszfxc+c=
-			</data>
 			<key>hash2</key>
 			<data>
 			EN3uNRDph2nH/i99HMN1LJVCZUbg11NotkZAG2Cmk18=
@@ -512,24 +343,9 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/assets/white.webm</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jE4pzs8nIGXp/yKKnqufQKSXYaY=
-			</data>
 			<key>hash2</key>
 			<data>
 			vJLpg7ITYWnVVEZSepKcJLwQOa3a31zMSh3Fau4PxtM=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/FormBuilderSDK.framework/eca.easycredit.bg.cer</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/8QpFHnh8pKiRy6NDNRK3L8Du64=
-			</data>
-			<key>hash2</key>
-			<data>
-			Mz8jF7LBq6jx3rShBCARVmHgYW/ShfwJAb0RR5Z0rYU=
 			</data>
 		</dict>
 	</dict>
