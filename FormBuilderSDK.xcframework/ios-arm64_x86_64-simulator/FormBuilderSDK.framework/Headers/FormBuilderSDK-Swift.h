@@ -373,6 +373,10 @@ SWIFT_PROTOCOL_NAMED("FBSDelegate")
 /// \param id The ID of the step where the user closed the UI.
 ///
 - (void)closedFormOnStepWithId:(NSString * _Nonnull)id;
+/// Called when the process status is success or fail. If it is success it will return true. If it is fail it will return false.
+/// \param success The process status.
+///
+- (void)processResultWithSuccess:(BOOL)success;
 @end
 
 @class NSURL;
@@ -819,6 +823,10 @@ SWIFT_PROTOCOL_NAMED("FBSDelegate")
 /// \param id The ID of the step where the user closed the UI.
 ///
 - (void)closedFormOnStepWithId:(NSString * _Nonnull)id;
+/// Called when the process status is success or fail. If it is success it will return true. If it is fail it will return false.
+/// \param success The process status.
+///
+- (void)processResultWithSuccess:(BOOL)success;
 @end
 
 @class NSURL;
