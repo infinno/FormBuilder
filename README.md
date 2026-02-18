@@ -74,7 +74,7 @@ formBuilder.openStep(withId: {A_STEP_ID}, delegate: delegate, didOpenStep: { res
 
 This creates an instance of `FormBuilder` pointing to your backend and then opens a new interface of a previously created process at the step which the user has reached before (e.g. if they have interrupted it for some reason). It can also just be the first step for a process that the backend has preconfigured in some way.
 
- In the `openStep(withId:delegate:didOpenStep:)` method you should also pass an object conforming to the `FBSDelegate` protocol. The `FBSDelegate` protocol only defines one method `closedForm(onStepWithID:)` that is called when the user closes the FormBuilder interface and will give you the ID of the step where the user closed the framework UI.
+In the `openStep(withId:delegate:didOpenStep:)` method you should also pass an object conforming to the `FBSDelegate` protocol. The `FBSDelegate` protocol defines two methods. The first one is `closedForm(onStepWithID:)` that is called when the user closes the FormBuilder interface and will give you the ID of the step where the user closed the framework UI. The second one is `processResult(success:)` that is called when KYC status for fail or success is received.
 The `didOpenStep` closure tells you whether opening the process was successful or there was some error.
 
 ---
