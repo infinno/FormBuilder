@@ -3078,6 +3078,23 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FormBuilderSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "FormBuilderSDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -6654,56 +6671,56 @@
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1394,
+      "offset": 1425,
       "length": 10,
       "value": "\"required\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1423,
+      "offset": 1454,
       "length": 8,
       "value": "\"hidden\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1463,
+      "offset": 1494,
       "length": 12,
       "value": "\"allowedExt\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1501,
+      "offset": 1532,
       "length": 9,
       "value": "\"maxSize\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1534,
+      "offset": 1565,
       "length": 11,
       "value": "\"sizeError\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1574,
+      "offset": 1605,
       "length": 10,
       "value": "\"extError\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1607,
+      "offset": 1638,
       "length": 12,
       "value": "\"allignment\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1653,
+      "offset": 1684,
       "length": 6,
       "value": "\"size\""
     },
