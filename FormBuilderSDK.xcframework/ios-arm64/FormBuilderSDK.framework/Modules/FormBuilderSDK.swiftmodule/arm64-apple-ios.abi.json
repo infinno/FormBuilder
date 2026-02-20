@@ -3347,6 +3347,38 @@
             ],
             "reqNewWitnessTableEntry": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "postToHostUI",
+            "printedName": "postToHostUI(status:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@FormBuilderSDK@objc(pl)FBSDelegate(im)postToHostUIWithStatus:",
+            "mangledName": "$s14FormBuilderSDK11FBSDelegateP12postToHostUI6statusySS_tF",
+            "moduleName": "FormBuilderSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : FormBuilderSDK.FBSDelegate>",
+            "sugared_genericSig": "<Self where Self : FormBuilderSDK.FBSDelegate>",
+            "protocolReq": true,
+            "objc_name": "postToHostUIWithStatus:",
+            "declAttributes": [
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Protocol",
@@ -6681,56 +6713,56 @@
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1425,
+      "offset": 1466,
       "length": 10,
       "value": "\"required\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1454,
+      "offset": 1495,
       "length": 8,
       "value": "\"hidden\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1494,
+      "offset": 1535,
       "length": 12,
       "value": "\"allowedExt\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1532,
+      "offset": 1573,
       "length": 9,
       "value": "\"maxSize\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1565,
+      "offset": 1606,
       "length": 11,
       "value": "\"sizeError\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1605,
+      "offset": 1646,
       "length": 10,
       "value": "\"extError\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1638,
+      "offset": 1679,
       "length": 12,
       "value": "\"allignment\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Models\/Direction\/FieldJSON.swift",
       "kind": "StringLiteral",
-      "offset": 1684,
+      "offset": 1725,
       "length": 6,
       "value": "\"size\""
     },

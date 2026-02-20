@@ -103,6 +103,7 @@ extension CoreMedia.CMVideoDimensions : @retroactive Swift.Equatable {
 @objc(FBSDelegate) public protocol FBSDelegate {
   @objc func closedForm(onStepWithId id: Swift.String)
   @objc func processResult(success: Swift.Bool)
+  @objc func postToHostUI(status: Swift.String)
 }
 extension Swift.Numeric where Self.Magnitude : Swift.FloatingPoint {
   @inlinable @inline(__always) internal func isApproximatelyEqual(to other: Self, relativeTolerance: Self.Magnitude = Magnitude.ulpOfOne.squareRoot(), norm: (Self) -> Self.Magnitude = \.magnitude) -> Swift.Bool {

@@ -377,6 +377,10 @@ SWIFT_PROTOCOL_NAMED("FBSDelegate")
 /// \param success The process status.
 ///
 - (void)processResultWithSuccess:(BOOL)success;
+/// Called when a field with specific type is received.
+/// \param status The status from the SDK.
+///
+- (void)postToHostUIWithStatus:(NSString * _Nonnull)status;
 @end
 
 @class NSURL;
