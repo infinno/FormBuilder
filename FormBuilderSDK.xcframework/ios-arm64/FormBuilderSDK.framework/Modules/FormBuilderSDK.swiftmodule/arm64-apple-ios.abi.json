@@ -4486,6 +4486,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FormBuilderSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "WebKit",
         "printedName": "WebKit",
         "declKind": "Import",
@@ -5355,14 +5365,14 @@
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
       "kind": "StringLiteral",
-      "offset": 603,
+      "offset": 823,
       "length": 7,
       "value": "\"https\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
       "kind": "StringLiteral",
-      "offset": 669,
+      "offset": 891,
       "length": 2,
       "value": "\"\""
     },
@@ -5950,7 +5960,7 @@
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Helpers\/Helpers.swift",
       "kind": "BooleanLiteral",
-      "offset": 2905,
+      "offset": 3388,
       "length": 5,
       "value": "false"
     },
@@ -6433,49 +6443,49 @@
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 3623,
+      "offset": 3537,
       "length": 14,
       "value": "\"Грешка\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 6790,
+      "offset": 6339,
       "length": 34,
       "value": "\".didChangeVideoCaptureDimensions\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 6943,
+      "offset": 6492,
       "length": 13,
       "value": "\"FormBuilder\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 7039,
+      "offset": 6588,
       "length": 9,
       "value": "\"Network\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 7131,
+      "offset": 6680,
       "length": 12,
       "value": "\"Signalling\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 7226,
+      "offset": 6775,
       "length": 14,
       "value": "\"VideoCapture\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Helpers\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 7323,
+      "offset": 6872,
       "length": 11,
       "value": "\"WebSocket\""
     },
@@ -6664,7 +6674,7 @@
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Controls\/FBSConsentToggle.swift",
       "kind": "BooleanLiteral",
-      "offset": 317,
+      "offset": 344,
       "length": 4,
       "value": "true"
     },
@@ -6723,6 +6733,104 @@
       "offset": 1684,
       "length": 6,
       "value": "\"size\""
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "Array",
+      "offset": 1427,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1692,
+      "length": 3,
+      "value": "340"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1729,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1776,
+      "length": 3,
+      "value": "0.9"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1817,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1866,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1876,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1888,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1899,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1942,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1982,
+      "length": 2,
+      "value": "44"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2023,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2069,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSAlertViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2112,
+      "length": 3,
+      "value": "1.0"
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Helpers\/Constants.swift",
