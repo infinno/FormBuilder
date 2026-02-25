@@ -5397,16 +5397,16 @@
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
       "kind": "StringLiteral",
-      "offset": 823,
-      "length": 7,
-      "value": "\"https\""
+      "offset": 819,
+      "length": 6,
+      "value": "\"http\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Classes\/Controls\/FBSLinkButton.swift",
       "kind": "StringLiteral",
-      "offset": 891,
-      "length": 2,
-      "value": "\"\""
+      "offset": 845,
+      "length": 10,
+      "value": "\"https:\/\/\""
     },
     {
       "filePath": "\/Users\/svetoslavkanchev\/Developer\/ios\/form-builder-sdk-ios\/FormBuilderSDK\/Controllers\/FBSNativeKYCController.swift",
